@@ -1,0 +1,17 @@
+{
+  "name": "tasklist_dnd_typescript",
+  "version": "1.0.0",
+  "description": "simple tasklist with using many typescript features. Modified from udemy course",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "MMu",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
